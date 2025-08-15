@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 3,
+  "latestVersionCode": 4,
   "isForced": false,
   "releaseNotes": [
     {
-      "versionCode": 3,
+      "versionCode": 4,
       "title": "¡Registro por Voz con IA!",
       "features": [
         "Ahora puedes registrar tus gastos y ingresos hablando de forma natural.",
