@@ -1,9 +1,10 @@
 {
-  "latestVersionCode": 4,
+  "latestVersionCode": 3,
+  "apkUrl": "https://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-arm64-v8a-release.apk",
   "isForced": false,
   "releaseNotes": [
     {
-      "versionCode": 4,
+      "versionCode": 3,
       "title": "¡Registro por Voz con IA!",
       "features": [
         "Ahora puedes registrar tus gastos y ingresos hablando de forma natural.",
@@ -11,10 +12,6 @@
         "¡Prueba diciendo 'gasté 50 en el almuerzo de ayer'!"
       ]
     }
-  ],
-  "apkUrls": {
-    "arm64-v8a": "https://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-x86_64-release.apk"
-  }
+  ]
 }
+
