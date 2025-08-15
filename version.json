@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 2,
+  "latestVersionCode": 23,
   "isForced": false,
   "releaseNotes": [
     {
-      "versionCode": 2,
+      "versionCode": 3,
       "title": "¡Registro por Voz con IA!",
       "features": [
         "Ahora puedes registrar tus gastos y ingresos hablando de forma natural.",
@@ -13,8 +13,8 @@
     }
   ],
   "apkUrls": {
-    "arm64-v8a": "https://raw.githubusercontent.com/tu_usuario/tu_repo/main/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://raw.githubusercontent.com/tu_usuario/tu_repo/main/app-armeabi-v7a-release.apk",
-    "x86_64": "https://raw.githubusercontent.com/tu_usuario/tu_repo/main/app-x86_64-release.apk"
+    "arm64-v8a": "https://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-x86_64-release.apk"
   }
 }
