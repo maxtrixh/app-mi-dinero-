@@ -1,25 +1,25 @@
 {
-  "latestVersionCode": 3,
+  "latestVersionCode": 4,
   "isForced": false,
   "releaseNotes": [
     {
-      "versionCode": 3,
-      "title": "¡Nuevas Funcionalidades y Mejoras!",
+      "versionCode": 4,
+      "title": "¡Mejoras de Interfaz y Estabilidad!",
       "features": [
-        "Registro por Voz con IA mejorado para entender categorías y fechas.",
-        "Ahora puedes añadir listas de compras detalladas en tus transacciones.",
-        "Mejoras de interfaz y corrección de errores."
+        "Se ha mejorado la visualización de la lista de compras.",
+        "Ahora puedes filtrar transacciones por día.",
+        "Corrección de errores y mejoras de rendimiento."
       ]
     }
   ],
 
   "//": "--- CLAVE PARA COMPATIBILIDAD CON VERSIONES ANTIGUAS ---",
-  "apkUrl": "hhttps://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-arm64-v8a-release.apk",
+  "apkUrl": "https://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-arm64-v8a-release.apk",
 
   "//": "--- NUEVA SECCIÓN PARA VERSIONES RECIENTES Y FUTURAS ---",
   "apkUrls": {
-    "arm64-v8a": "https://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-arm64-v8a-release.apk",
-    "x86_64": "https://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-arm64-v8a-release.apk"
+    "arm64-v8a": "URL_AL_NUEVO_APK_arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/maxtrixh/app-mi-dinero-/releases/download/v1.0.1/app-x86_64-release.apk"
   }
 }
