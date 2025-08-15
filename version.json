@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 4,
+  "latestVersionCode": 3,
   "isForced": false,
   "releaseNotes": [
     {
-      "versionCode": 4,
+      "versionCode": 3,
       "title": "¡Nuevas Funcionalidades Inteligentes!",
       "features": [
         "Registro por Voz con IA mejorado para entender categorías y fechas.",
